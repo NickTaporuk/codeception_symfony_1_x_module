@@ -1,0 +1,16 @@
+{
+    "name": "nictaporuk/symfony1module",
+    "description": "Module for symfony 1.x framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nickolay Kuropatkin",
+            "email": "nictaporuk@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Codeception\\Module\\":"."
+        }
+    }
+}
